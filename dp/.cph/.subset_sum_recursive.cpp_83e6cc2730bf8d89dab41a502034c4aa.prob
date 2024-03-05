@@ -1,0 +1,1 @@
+{"name":"Local: subset_sum_recursive","url":"d:\\dp\\subset_sum_recursive.cpp","tests":[{"id":1708711500054,"input":"5\n1 2 3 4 5\n14","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\dp\\subset_sum_recursive.cpp","group":"local","local":true}

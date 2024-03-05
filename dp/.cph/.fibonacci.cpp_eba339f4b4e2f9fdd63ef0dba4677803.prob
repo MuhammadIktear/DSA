@@ -1,0 +1,1 @@
+{"name":"Local: fibonacci","url":"d:\\dp\\fibonacci.cpp","tests":[{"id":1708227947030,"input":"9","output":"34"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\dp\\fibonacci.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: memoization_of_fibonacci","url":"d:\\dp\\memoization_of_fibonacci.cpp","tests":[{"id":1708229898888,"input":"50","output":"12586269025"},{"id":1708230630684,"input":"5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\dp\\memoization_of_fibonacci.cpp","group":"local","local":true}

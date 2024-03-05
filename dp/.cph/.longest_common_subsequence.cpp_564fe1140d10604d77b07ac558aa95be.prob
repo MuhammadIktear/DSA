@@ -1,0 +1,1 @@
+{"name":"Local: longest_common_subsequence","url":"d:\\dp\\longest_common_subsequence.cpp","tests":[{"id":1709528500725,"input":"abcdefg\nabcdefg","output":""},{"id":1709529149314,"input":"abc\nabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\dp\\longest_common_subsequence.cpp","group":"local","local":true}
